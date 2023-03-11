@@ -1,7 +1,6 @@
 # CSE 282 Final Project
 
-Solving combinatorial selection of nutrients to treat patients with low
-abundance microbes
+LHS: A Combinatorial optimization algorithm for nutrient treatment Recommendations in patients with low microbe abundances.
 
 ## Requirements
 
